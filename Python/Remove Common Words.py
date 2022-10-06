@@ -28,7 +28,7 @@ def removeCommonWords(Sent_1, Sent_2):
 	print(*Sen_1)
 	print(*Sen_2)
 
-Sen_1 = str(input("Enter the Sentence 1 :"))
-Sen_2 = str(input("Enter the Sentence 2 :"))
+Sen_1 = str(input("Enter the Sentence 1 : "))
+Sen_2 = str(input("Enter the Sentence 2 : "))
 
 removeCommonWords(Sen_1, Sen_2)
